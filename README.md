@@ -43,4 +43,4 @@ A curated list of demo/samples/resources of Tizen .NET from [Samsung Developer C
   - **Samples**
      - [Simple Video Player](https://github.com/rookiejava/sdc2018-tizen-net/tree/master/tutorial/SimpleVideoPlayer): A super simple video player for Tizen TV.
      - [Simple Image Viewer](https://github.com/rookiejava/sdc2018-tizen-net/tree/master/tutorial/SimpleWatchPhoto): A super simple image viewer for Tizen wearables.
-     - [Xamarin.Forms Samples](https://github.com/samsung/xamarin-forms-samples): Cross-platform (iOS, Android, UWP and Tizen) samples built using using Xamarin.Forms. 
+     - [Simple CrossPlatform App](https://github.com/rookiejava/sdc2018-tizen-net/tree/master/tutorial/SimpleCrossPlatform): A simple cross-platform application for iOS, Android, and the Tizen.
