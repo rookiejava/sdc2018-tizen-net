@@ -13,12 +13,12 @@ A curated list of demo/samples/resources of Tizen .NET from [Samsung Developer C
  
 ## Exhibition
   
-- **Tizen .NET for Samsung Smart TV, Galaxy Watch and Family Hub**
+- **Booth 1. Tizen .NET for Samsung Smart TV, Galaxy Watch and Family Hub**
   - **Guides**
     - [Tizen .NET Features and Components](https://developer.tizen.org/development/training/.net-application/tizen-.net-features-and-components)
 
 
-- **Tizen .NET SDK**
+- **Booth 2. Tizen .NET SDK**
   - Introduction to Tizen .NET SDK Tools and provide hands-on experience with C# programming language in Visual Studio by building real working apps. 
   - **Guides**
     - [Creating Your First Tizen TV .NET Application](https://developer.tizen.org/development/training/.net-application/getting-started/creating-your-first-tizen-tv-.net-application)
