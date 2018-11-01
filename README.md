@@ -18,15 +18,14 @@ A curated list of demo/samples/resources of Tizen .NET from [Samsung Developer C
   - **Guides**
     - [Tizen .NET Features and Components](https://developer.tizen.org/development/training/.net-application/tizen-.net-features-and-components)
   - **Samples**
-      - [TMDb](https://github.com/Samsung/Tizen.TV.UIControls/tree/master/sample/TMDb): Shows the list of popular and top-rated movies with trailers for TV.
-      - [SmartHotel360](https://github.com/yourina/SmartHotel360-mobile-desktop-apps.git): A hotel maintenance app which is created as a Xamarim demo and used at Connect(); 2017 Keynots with Tizen enabled.
-      
-      - [XStopWatch](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/XStopWatch): A stop watch app for Watch.
-      - [Alarm](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/Alarm): An alarm management app for Watch.
-      - [Weather](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/Weather): A weather app for Watch.
-      - [PhotoWatch](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/PhotoWatch): A Watch Face application which uses the photos on the device.
-      - [VoiceMemo](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/VoiceMemo): A voice memo application for Watch
-      - [ImageViewer](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/ImageViewer): A sample application for image viewer.
+     - [TMDb](https://github.com/Samsung/Tizen.TV.UIControls/tree/master/sample/TMDb): Shows the list of popular and top-rated movies with trailers for TV.
+     - [SmartHotel360](https://github.com/yourina/SmartHotel360-mobile-desktop-apps.git): A hotel maintenance app which is created as a Xamarim demo and used at Connect(); 2017 Keynots with Tizen enabled.
+     - [XStopWatch](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/XStopWatch): A stop watch app for Watch.
+     - [Alarm](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/Alarm): An alarm management app for Watch.
+     - [Weather](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/Weather): A weather app for Watch.
+     - [PhotoWatch](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/PhotoWatch): A Watch Face application which uses the photos on the device.
+     - [VoiceMemo](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/VoiceMemo): A voice memo application for Watch
+     - [ImageViewer](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/ImageViewer): A sample application for image viewer.
       
   - **Video**
       - [Introducing Tizen 4.0](https://www.youtube.com/watch?v=enEbZWE4t74)
