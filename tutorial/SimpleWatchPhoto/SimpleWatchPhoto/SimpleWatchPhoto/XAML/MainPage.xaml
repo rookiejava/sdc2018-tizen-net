@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<circularui:CirclePage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:circularui="clr-namespace:Tizen.Wearable.CircularUI.Forms;assembly=Tizen.Wearable.CircularUI.Forms"
+    x:Class="SimpleWatchPhoto.MainPage"
+    RotaryFocusObject="{x:Reference Scroller}">
+    <circularui:CirclePage.Content>
+        <circularui:CircleScrollView x:Name="Scroller">
+            <StackLayout Spacing="20" Padding="0, 30">
+                <Image Source="Tizen.NET_round.png" VerticalOptions="FillAndExpand" />
+                <Image Source="CircularUI_round.png" VerticalOptions="FillAndExpand" />
+                <Image Source="TVUI_round.png" VerticalOptions="FillAndExpand" />
+            </StackLayout>
+        </circularui:CircleScrollView>
+    </circularui:CirclePage.Content>
+</circularui:CirclePage>
