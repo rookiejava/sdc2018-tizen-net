@@ -25,6 +25,7 @@ A curated list of demo/samples/resources of Tizen .NET from [Samsung Developer C
     - [How to test Tizen .NET applicatoin on Galaxy Watch](https://samsung.github.io/Tizen.CircularUI/guide/TestingYourAppOnGear.html)
     - [How to get the Samsung Certificate](https://samsung.github.io/Tizen.CircularUI/guide/GettingTheCertificates.html)
   - **Samples**
+     - [SDC Demo](https://github.com/yourina/SDC.Xamarin): A demo app containing the samples of Xamarin Forms, SkiaSharp, MicroChart, FFImageLoading, TV.UIControls, and the reference app for SDC
      - [TMDb](https://github.com/Samsung/Tizen.TV.UIControls/tree/master/sample/TMDb): Shows the list of popular and top-rated movies with trailers for TV.
      - [SmartHotel360](https://github.com/yourina/SmartHotel360-mobile-desktop-apps.git): A hotel maintenance app which is created as a Xamarim demo and used at Connect(); 2017 Keynots with Tizen enabled.
      - [XStopWatch](https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Wearable/XStopWatch): A stop watch app for Watch.
