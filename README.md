@@ -11,7 +11,7 @@ A curated list of demo/samples/resources of Tizen .NET from [Samsung Developer C
 - Overview
   - Tizen .NET was adapted to Samsung TV products last year and provided a convenient way to develop applications on Samsung TV devices. This year, the new Galaxy Watch products have also added Tizen .NET for a new application model. Developers can now benefit from the same productive development environment and useful APIs specially designed for Galaxy Watch devices. In this session, we will live update the Tizen .NET framework and SDK for the third-party application developers for Samsung Galaxy Watch and TVs.
 - Slide
-  - Comming soon
+  - [What's new in Tizen .NET](https://raw.githubusercontent.com/rookiejava/sdc2018-tizen-net/master/session/WhatupTizenNET-Submit.pdf)
  
 ## Exhibition
   
